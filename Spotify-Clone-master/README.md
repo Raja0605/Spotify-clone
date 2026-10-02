@@ -9,13 +9,10 @@ Spotify Clone is a web application developed using HTML, CSS, and JavaScript tha
 -   5.Responsive design: The Spotify Clone is built with responsive design principles, ensuring optimal viewing and interaction experiences across a variety of devices, including desktops, tablets, and mobile phones.
 
 ## How to Use:
-- 1.Clone this repository to your local machine.
-- 2.Open the index.html file in your preferred web browser.
-- 3.Explore the Spotify Clone interface and its various features.
-- 4.Use the search bar to find your favorite songs and artists.
-- 5.Create and manage playlists by clicking on the "Create Playlist" button.
-- 6.Play and control songs using the player at the bottom of the screen.
-- 7.Enjoy discovering new music and creating personalized playlists!
+1. Install dependencies with `npm install`.
+2. Start the development server with `npm run dev` and open the URL it prints (usually `http://localhost:5173`).
+3. Create a production build with `npm run build`; Vite writes the site to `dist/`.
+4. Preview the production build locally with `npm run preview`.
 
 ## Technologies Used:
 - HTML: Used for structuring the web pages and organizing the content.
